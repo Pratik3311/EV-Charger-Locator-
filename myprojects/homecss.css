@@ -1,0 +1,123 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: rgb(178, 214, 214);
+}
+
+header {
+    background-color: transparent;
+    padding: 20px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.navbar img {
+    max-height: 40px; /* Set the max height for your logo */
+}
+
+.nav-links a {
+    text-decoration: none;
+    margin: 0 15px;
+    color: #333;
+}
+
+.enquiry a {
+    text-decoration: none;
+    padding: 8px 15px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    color: #333;
+}
+
+/* Resetting default margin and padding */
+body, h1, h3 {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: transparent;
+    padding: 20px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #f0f0f0; /* Set background color to a lighter shade */
+}
+
+.main-content {
+    flex: 1.5; /* Adjust the ratio as needed */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-size: 5em; /* Adjust the font size as needed */
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px; /* Increase spacing */
+}
+
+.brand {
+    color: #ff6600; /* Change the color according to your preference */
+}
+
+.subtitle {
+    color: #666;
+    text-align: center;
+    margin-bottom: 20px; /* Increase spacing */
+}
+
+a.button {
+    display: inline-block;
+    padding: 15px 30px; /* Adjust the padding as needed */
+    text-decoration: none;
+    background-color: #ff6600; /* Button color */
+    color: #fff; /* Text color */
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+a.button:hover {
+    background-color: #e65c00; /* Change color on hover */
+}
+
+.sidebar {
+    flex: 1; /* Adjust the ratio as needed */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff; /* Background color for sidebar */
+    padding: 20px; /* Add padding for better separation */
+    
+}
+.sidebar img{
+    height: 800px;
+    width: 450px;
+}
+.animated-image {
+    width: 150%; /* Image takes up full width of sidebar */
+    animation: float 3s infinite;
+    max-width: 100%; /* Adjust image max-width */
+    height: auto; /* Maintain aspect ratio */
+}
+
+@keyframes float {
+    0%, 100% {
+        transform: translatey(0);
+    }
+    50% {
+        transform: translatey(-10px);
+    }
+}

@@ -1,0 +1,25 @@
+.top-card{
+    height: 150px;
+    width: 800px;
+    background-color: antiquewhite;
+    display: flex;
+    margin-left: 350px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    align-items: center;
+    margin-left: 30px;
+}
+.card{
+    padding: 75px;
+    display: flex;
+}
+.left-card{
+    height: 500px;
+    width: 500px;
+    background-color: antiquewhite;
+    border: 1px solid black;
+    border-radius: 10px;
+}

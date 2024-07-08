@@ -1,0 +1,584 @@
+[
+  {
+    "name": "Charge Zone Charging Station",
+    "lat": 19.17763892144182, 
+    "lng": 72.79603242643998,
+    "address": "The Resorts & Spa, Madh - Marve Rd, Dharvali, Aksa Gaon, Madh, Mumbai",
+    "city": "Malad",
+    "country": "India"
+  },
+  {
+    "name": "TATA Charging Station",
+    "lat": 19.196828175094375, 
+    "lng": 72.82891037985476,
+    "address": "5RWH+3G8, Malad, New Mahakali Nagar, Malvani, Malad West, Mumbai",
+    "city": "Malad West",
+    "country": "India"
+  },
+  {
+      "name": "Jio-bp pulse Charging Station",
+      "lat": 19.176400282906627, 
+      "lng": 72.83491852777597,
+      "address": "Inorbit Mall, New Link Rd, Malad, Malad West, Mumbai",
+      "city": "Malad West",
+      "country": "India" 
+  },
+  {
+    "name": "Electric Vehicle Charging Station",
+    "lat": 19.179318708368893, 
+    "lng": 72.83663514146775,
+    "address": "5RGP+8QM Shakti Premises, New Link Rd, Malad, Ram Nagar, Malad West, Mumbai",
+    "city": "Another City",
+    "country": "Another Country" 
+  },
+  {
+    "name": "Jio-bp Pulse",
+    "lat": 19.18191282092848, 
+    "lng": 72.87148239941084,
+    "address": "Rushi Heights, CST No 677B/1, CHS Ltd, Film City Rd, near Riddhi Gardens, Malad, Mumbai",
+    "city": "Malad",
+    "country": "India" 
+  },
+  {
+    "name": "EVC Global Charging Station",
+    "lat": 19.189208543431953,  
+    "lng": 72.83543351188351,
+    "address": "Palm Spring, New Link Rd, Malad, Mindspace, Malad West, Mumbai",
+    "city": "Malad",
+    "country": "India" 
+  },
+  
+ 
+  {
+    "name": "TATA Power Charging Station",
+    "lat": 19.451352466292395, 
+    "lng": 72.78528213331086,
+    "address": "CQXP+R8V, Agashi Rd, Purapada, Bolinj",
+    "city": "Virar west",
+    "country": "India" 
+  },
+  {
+    "name": "Electric Vehicle Charging Station",
+    "lat": 19.475953886616995, 
+    "lng": 72.80725478966966,
+    "address": "H 25 avenue, Evershine Globle City, Dongarpada, Rustomjee Global City",
+    "city": "Virar west",
+    "country": "India" 
+  },
+  {
+    "name": "Electric Vehicle Charging Station",
+    "lat": 19.46419483322139, 
+    "lng": 72.88632300895436,
+    "address": "FV6P+GC6, Virar East, Kaner",
+    "city": "Virar East",
+    "country": "India" 
+  },
+  
+
+  {
+    "name": "CREATEC Technologies",
+    "lat": 19.419052380562302, 
+    "lng": 72.86078095219177,
+    "address": "Unit No.33, Unique Industrial Estate, Golani Naka, Waliv",
+    "city": "Vasai east",
+    "country": "India" 
+  },
+  {
+      "name": "Electric Vehicle Charging Station",
+      "lat": 19.367740548054847, 
+      "lng": 72.81224899654775,
+      "address": "Shop no 5, Perier Chsl, opp. D-Mart, Bhabola, Husaini Colony",
+      "city": "Vasai west",
+      "country": "India" 
+  },
+  {
+    "name": "Ather Grid Charging Station",
+    "lat": 19.368874173215914,
+    "lng":  72.81413727377799,
+    "address": "Shop no 12, SSK, Mahatma Gandhi Rd, opp. D-Mart, Bhabola",
+    "city": "Vasai west",
+    "country": "India" 
+  },
+
+
+  {
+  "name": "Powerbank Charging Station",
+  "lat":19.332099049771177, 
+  "lng": 72.8922431384221,
+  "address": "8VHV+J9F, NH 48, Naigaon East, Sasunavghar, Maljipada",
+  "city": "Naigaon East",
+  "country": "India" 
+  },
+
+
+  {
+  "name": "Electric Vehicle Charging Station",
+  "lat": 19.29906355036338, 
+  "lng": 72.87508248853638,
+  "address": "Off no 10 Laxmi Deep Shree Laxmi park, Kanakia Rd, Mira Road East",
+  "city": "Mira Road East",
+  "country": "India" 
+  },
+  {
+    "name": "Bolt Charging Station",
+    "lat": 19.296795323204297, 
+    "lng": 72.87370919876479,
+    "address": "Shop 15-16, CHS, Mira Bhayandar Rd, Unique Gardens, Chandresh Accord, Gaurav City, Mira Road East",
+    "city": "Mira Road East",
+    "country": "India"
+  },
+  {
+    "name": "Tata Charging Station",
+    "lat": 19.280916853682474, 
+    "lng": 72.8790307012093,
+    "address": "Jhankar Studio, Miragaon, Mira Road East",
+    "city": "Mira Road East",
+    "country": "India"
+  },
+  {
+    "name": "ChargeZone Charging Station",
+    "lat": 19.287722100622936, 
+    "lng": 72.90529489069351,
+    "address": "7WM4+C5, Versova, Mira Bhayandar",
+    "city": "Mira Road East",
+    "country": "India"
+  },
+ 
+ 
+  {
+    "name": "Nuvostella Private Limited",
+    "lat": 19.248213293814494, 
+    "lng": 72.85581349643864,
+    "address": "RUSTOMJEE REGENCY, Jaywant Sawant Marg, Dahisar West, Mumbai",
+    "city": "Dahisar west",
+    "country": "India"
+  },
+
+
+  {
+    "name": "Ather Charging Station",
+    "lat": 19.249148915882003, 
+    "lng": 72.84791684357334,
+    "address": "MCGM Parking ||, CLUB AQUARIA, Devidas Lane, Shanti Ashram Rd, near St.Lawrence High School, Borivali West, Mumbai",
+    "city": "Borivali West",
+    "country": "India"
+  },
+  {
+    "name": "Jio-bp pulse Charging Station",
+    "lat": 19.228079184024818, 
+    "lng": 72.8544399756021,
+    "address": "Victoria Mall, D, Opp Salute Restuarant, Shimpoli Rd, Kastur Park, Borivali West, Mumbai",
+    "city": "Borivali West",
+    "country": "India" 
+  },
+
+
+  {
+    "name": "Electric Vehicle Charging Station",
+    "lat": 19.16612693690826, 
+    "lng": 72.85632848136255,
+    "address": "5V55+W9C Colony Sqaure Building, Aarey Colony, Goregaon, Mumbai",
+    "city": "Goregoan",
+    "country": "India"   
+  },
+
+
+  {
+    "name": "Electric Vehicle Charging Station",
+    "lat": 19.145695238472193, 
+    "lng": 72.85392522219406,
+    "address": "CTS 227, Gupha Tekdi, Western Express Hwy, Opposite Bala Saheb Thackrey Hospital, HW, Jogeshwari East, Mumbai",
+    "city": "Jogeshwari East",
+    "country": "India" 
+  },
+
+
+  {
+    "name": "Tata Charging Station",
+    "lat": 19.136471767009166, 
+    "lng": 72.83307949382316,
+    "address": "4RJJ+56W, Clue Hunt Andheri, KL Walawalkar Marg, Sahayog Nagar, Bhudargarh Colony, Andheri West, Mumbai",
+    "city": "Andheri West",
+    "country": "India" 
+  },
+  {
+    "name": "Electric Vehicle Charging Station",
+    "lat": 19.13030898530415,
+    "lng": 72.84921566252588,
+    "address": "Eco Space IT Park, New Nagardas Rd, Mogra Village, Mogra Pada, Natwar Nagar, Jogeshwari East, Mumbai",
+    "city": "Jogeshwari East",
+    "country": "India" 
+  },
+  {
+    "name": "TATA Charging Station",
+    "lat": 19.121550952608292, 
+    "lng": 72.85127559895602,
+    "address": "4V82+93V, Teli - Gali Road, Andheri East, Mumbai",
+    "city": "Andheri East",
+    "country": "India" 
+  },
+  {
+    "name": "Volttic Charging Station",
+    "lat": 19.12479472255165, 
+    "lng": 72.88732448648337,
+    "address": "4VCP+3R9, Military Rd, Raje Shivaji Nagar, Marol, Andheri East, Mumbai",
+    "city": "Andheri East",
+    "country": "India" 
+  },
+  {
+    "name": "TATA Charging Station",
+    "lat": 19.122524090277192, 
+    "lng": 72.86741176765874,
+    "address": "B-6, Cross Road B J B Nagar, Bhim Nagar, Andheri East, Mumbai",
+    "city": "Andheri East",
+    "country": "India" 
+  },
+  {
+    "name": "Ather Grid Charging Station",
+    "lat": 19.111819260787875, 
+    "lng": 72.89865413684909,
+    "address": "Vijay Group of Companies, 35, Saki Vihar Rd, opposite Sangharsh Nagar, Nahar Amrit Shakti, Chandivali, Andheri, Mumbai",
+    "city": "Andheri East",
+    "country": "India" 
+  },
+  {
+    "name": "EV Cosmos Charging Station",
+    "lat": 19.115296378641748, 
+    "lng": 72.87170564887236,
+    "address": "Hotel VITS Andheri Kurla Road, Sahar Airport Rd, Zone, Andheri East, Mumbai",
+    "city": "Andheri East",
+    "country": "India" 
+  },
+
+
+  {
+    "name": "ChargeZone® EV Charging Station",
+    "lat": 19.102806797538385, 
+    "lng": 72.87307893982579,
+    "address": "Chattrapati Shivaji, Terminal 2, Jw Marriott Sahar, Navpada, Vile Parle East, Vile Parle, Mumbai",
+    "city": "Vile Parle East",
+    "country": "India" 
+  },
+  {
+    "name": "EV COSMOS Charging Station",
+    "lat": 19.101603448656828, 
+    "lng": 72.85392113109347,
+    "address": "The Orchid Hotel, Navpada, Vile Parle East, Vile Parle, Mumbai",
+    "city": "Vile Parle East",
+    "country": "India" 
+  },
+  {
+    "name": "Ather Charging Station",
+    "lat": 19.109713732648068, 
+    "lng": 72.85958595627635,
+    "address": "Plot No. 211, Chakala, Sahar Rd, Opposite Cigarette Factory, Andheri East",
+    "city": "Andheri East",
+    "country": "India" 
+  },
+
+
+  {
+    "name": "Jio-bp pulse Charging Station",
+    "lat": 19.09465562038506, 
+    "lng": 72.83867954916244,
+    "address": "Acme Mall, Swami Vivekananda Rd, Rizvi Nagar, MSEB Colony, Santacruz West, Mumbai",
+    "city": "Santacruz West",
+    "country": "India" 
+  },
+  {
+    "name": "Electric Vehicle Charging Station",
+    "lat": 19.090275717829005, 
+    "lng": 72.83764958094737,
+    "address": "3RQP+FXX, Reliance mall, Swami Vivekananda Rd, Santacruz West, Mumbai",
+    "city": "Santacruz West",
+    "country": "India" 
+  },
+  {
+    "name": "Electric Vehicle Charging Station",
+    "lat": 19.08476012014468, 
+    "lng": 72.84073948559256,
+    "address": "Shop #4, 2nd Hasanabad Lane, Santacruz (West), Mumbai",
+    "city": "Santacruz West",
+    "country": "India" 
+  },
+  {
+    "name": "Electric Vehicle Charging Station",
+    "lat": 19.085084572153097, 
+    "lng": 72.84417271297613,
+    "address": "Moiz Apartments, 12th Road, Above Upadhyaya Nursing Home, Santacruz East, Mumbai",
+    "city": "Santacruz East",
+    "country": "India" 
+  },
+  
+  
+  {
+    "name": "Electric Vehicle Charging Station",
+    "lat": 19.075665065737823,
+    "lng":  72.83618457644279,
+    "address": "183/184, Parag Building, 11th Road, Madhu Park, opposite Ghanteshwar Mandir, Khar West, Mumbai",
+    "city": "Khar West",
+    "country": "India" 
+  },
+
+
+  {
+    "name": "TATA Charging Station",
+    "lat": 19.052291427744187, 
+    "lng": 72.83788190767159,
+    "address": "36 SV Road, Santosh Nagar, Bandra West, Mumbai",
+    "city": "Bandra West",
+    "country": "India" 
+  },
+  {
+    "name": "Electric Vehicle Charging Station",
+    "lat": 19.056996841379398,
+    "lng": 72.84522043120394,
+    "address": "3R4W+F25, D Block BKC, Kherwadi, Bandra East, Mumbai",
+    "city": "Bandra East",
+    "country": "India" 
+  },
+  {
+    "name": "TruePower Charging Station",
+    "lat": 19.057240221212755, 
+    "lng": 72.85045610296386,
+    "address": "Sahitya Sahawas Colony, Madhusudan Kalelkar Rd, Kala Nagar, Bandra East, Mumbai",
+    "city": "Bandra East",
+    "country": "India" 
+  },
+  {
+    "name": "Electric Vehicle Charging Station",
+    "lat": 19.055130917459458, 
+    "lng": 72.85161481720581,
+    "address": "3V32+GR6, E Block BKC, Bandra Kurla Complex, Bandra East, Mumbai",
+    "city": "Bandra East",
+    "country": "India" 
+  },
+  {
+    "name": "Jio-bp Pulse",
+    "lat": 19.055430565874754, 
+    "lng": 72.8504577502224,
+    "address": "MAKER MAXITY, 2nd, North Ave, Bandra Kurla Complex, Bandra East, Mumbai",
+    "city": "Bandra East",
+    "country": "India" 
+  },
+
+
+  {
+    "name": "EV DOCK Charging Station",
+    "lat": 19.04765687029447, 
+    "lng": 72.84162393364127,
+    "address": "2RWR+8X2, Mahim - Sion Link Rd, Naya Nagar, Police Colony, Mahim, Mumbai, Maharashtra 400016",
+    "city": "Mahim",
+    "country": "India" 
+  },
+  {
+    "name": "Electric Vehicle Charging Station",
+    "lat": 19.045628576951806, 
+    "lng": 72.84085145747999,
+    "address": "2RVR+WC9, Mahim Causeway, opposite S.L.Raheja Hospital, Mahim West, Mahim, Mumbai",
+    "city": "Mahim",
+    "country": "India" 
+  },
+
+
+  {
+    "name": "TATA Charging Station",
+    "lat": 19.03743173582609, 
+    "lng": 72.8537260458635,
+    "address": "2VP3+7J3, Dharavi Receiving Station, Near Shalimar Industrial Estate, Matunga East, Mumbai",
+    "city": "Matunga East",
+    "country": "India" 
+  },
+  {
+    "name": "Electric Vehicle Charging Station",
+    "lat": 19.03816196034059, 
+    "lng": 72.84943451163409,
+    "address": "114, Sundar Kamla Nagar, Western Railway Colony, Hanuman Nagar, Matunga East, Mumbai, Maharashtra 400019",
+    "city": "Matunga East",
+    "country": "India" 
+  },
+  {
+    "name": "TATA Charging Station",
+    "lat": 19.03688107415978, 
+    "lng": 72.84968365118742,
+    "address": "2RPX+7X6, Tata Power,Dharavi Colony labour camp, Dharavi, Matunga East, Mumbai",
+    "city": "Matunga East",
+    "country": "India" 
+  },
+
+
+  {
+    "name": "Statiq Charging Station",
+    "lat": 19.025453336085956, 
+    "lng": 72.84234024266595,
+    "address": "Kohinoor Altissimo Residential Tower, Kohinoor Altissimo, Kasaravadi, Dadar, Mumbai",
+    "city": "Dadar",
+    "country": "India" 
+  },
+  {
+    "name": "Ather Grid Charging Station",
+    "lat": 19.02615824564159,
+    "lng": 72.84281958434885,
+    "address": "MCGM Parking || Kohinoor, Swami Gyan Jivandas Marg, Kasaravadi, Dadar, Mumbai",
+    "city": "Dadar",
+    "country": "India" 
+  },
+  {
+    "name": "Kazam Charging Station",
+    "lat": 19.01729630802444, 
+    "lng": 72.83515011742253,
+    "address": "2R8P+F5C, Ground Floor Nana Niwas Gokhale Road, Baburao Parulekar Marg, Dadar West, Dadar, Mumbai",
+    "city": "Dadar",
+    "country": "India" 
+  },
+
+
+  {
+    "name": "TATA Charging Station",
+    "lat": 19.021074120055452, 
+    "lng": 72.83182265531738,
+    "address": "1207, SVS Rd, Chandrakant Dhuru Wadi,, 1207, Swatantryaveer Savarkar Rd, Prabhadevi, Mumbai",
+    "city": "Prabhadevi",
+    "country": "India" 
+  },
+  {
+    "name": "Electric Vehicle Charging Station",
+    "lat": 19.015393927239042, 
+    "lng": 72.8207504970054,
+    "address": "28, Prabhadevi New Rd, Municipal Colony, Adarsh Nagar, Prabhadevi, Mumbai",
+    "city": "Prabhadevi",
+    "country": "India" 
+  },
+  {
+    "name": "TATA Charging Point",
+    "lat": 19.014907044537956, 
+    "lng": 72.82581450739615,
+    "address": "2R7G+5JM, Lloyds Centre Point, Appasaheb Marathe Marg, Prabhadevi, Mumbai",
+    "city": "Prabhadevi",
+    "country": "India" 
+  },
+
+
+  {
+    "name": "Electric Vehicle Charging Station",
+    "lat": 18.97866071154186, 
+    "lng": 72.81411825314257,
+    "address": "XRH7+786, Dr Amedkar Rd, Haji Ali, Arya Nagar, Tulsiwadi, Mahalakshmi, Mumbai",
+    "city": "Mahalakshmi",
+    "country": "India" 
+  },
+  {
+    "name": "Electric Vehicle Charging Station",
+    "lat": 18.951062357379254, 
+    "lng": 72.82407461255491,
+    "address": "108/110, Cavel Street, Kalbadevi, Mumbai",
+    "city": "Kalbadevi",
+    "country": "India" 
+  },
+  {
+    "name": "Tata Charging Station",
+    "lat": 18.949763498779927, 
+    "lng": 72.83883749030421,
+    "address": "WRWQ+48J, Chhatrapati Shivaji Maharaj Terminus, Chhatrapati Shivaji Maharaj Terminus, Chhatrapati Shivaji Terminus Area, Fort, Mumbai",
+    "city": "Fort",
+    "country": "India" 
+  },
+  {
+    "name": "Electric Vehicle Charging Station",
+    "lat": 18.941320671486867, 
+    "lng": 72.84192739494941,
+    "address": "WRMR+FCW, Walchand Hirachand Marg, Ballard Estate, Fort, Mumbai",
+    "city": "Fort",
+    "country": "India" 
+  },
+  {
+    "name": "Powerbank Charging Station",
+    "lat": 18.936449615354544, 
+    "lng": 72.82441793529327,
+    "address": "157, Bhanushankar Yagnik Rd, behind Petroleum House, Backbay Reclamation, Churchgate, Mumbai, Maharashtra 400020",
+    "city": "Churchgate",
+    "country": "India" 
+  },
+  {
+    "name": "Electric Vehicle Charging Station",
+    "lat": 18.915989628418, 
+    "lng": 72.81549154409602,
+    "address": "Backbay Bus Depot, Ganesh Murti Nagar, Colaba, Mumbai",
+    "city": "Colaba",
+    "country": "India" 
+  },
+  
+  
+  {
+    "name": "Powerbank Charging Station",
+    "lat": 19.27375686105046, 
+    "lng": 72.96589122726158,
+    "address": "7X98+J2H, Service Rd, Sai Nagar, Anand Nagar, Thane West, Thane",
+    "city": "Thane West",
+    "country": "India" 
+  },
+  {
+      "name": "TATA Charging Station",
+      "lat": 19.262413658862243, 
+      "lng": 72.97001110012184,
+      "address": "1st floor, Kavesar, Thane West, Thane",
+      "city": "Thane West",
+      "country": "India" 
+  },
+  {
+    "name": "Cirquinix EV Charging Solutions",
+    "lat": 19.265346773589982, 
+    "lng": 72.98358352721091,
+    "address": "H.N 1005, Solitaire B, near Bayer House, Hiranandani Estate, Thane",
+    "city": "Thane West",
+    "country": "India" 
+  },
+  {
+    "name": "EV Dock Charging Station",
+    "lat": 19.25586784249931, 
+    "lng": 72.98453980748091,
+    "address": "7X3M+PCF, Obelia Ln, Hiranandani Estate, Thane West, Thane",
+    "city": "Thane West",
+    "country": "India" 
+  },
+  {
+    "name": "Fortum Charging Station",
+    "lat": 19.23685693120992, 
+    "lng": 72.97588531986939,
+    "address": "6XJG+W7C, Service Rd, Manpada, Thane West, Thane",
+    "city": "Thane West",
+    "country": "India" 
+  },
+  {
+    "name": "Electric Vehicle Charging Station",
+    "lat": 19.11542816290437, 
+    "lng": 72.93290126077463,
+    "address": "4W5J+7MR, Godrej Colony, Pirojshanagar, Vikhroli, Mumbai",
+    "city": "Vikhroli",
+    "country": "India" 
+  },
+  {
+    "name": "Electric Vehicle Charging Station",
+    "lat": 19.092394712321795, 
+    "lng": 72.92088496431013,
+    "address": "3WMC+C8Q, Ghatkopar East, Mumbai",
+    "city": "Ghatkopar East",
+    "country": "India" 
+  },
+  {
+    "name": "Tata Power Charging Station",
+    "lat": 19.05280862303113,  
+    "lng": 72.87831294282576,
+    "address": "3WMC+C8Q, Ghatkopar East, MumbaiAnik Depot, Municipal Kamgar Vasahat, Trombay Indusrial Area, Chembur, Mumbai",
+    "city": "Chembur",
+    "country": "India" 
+  },
+  {
+    "name": "Electric Vehicle Charging Station",
+    "lat": 19.038204811051617, 
+    "lng": 72.86080348316963, 
+    "address": "Namdev Koli Marg, Sion, Mumbai",
+    "city": "Sion",
+    "country": "India" 
+  }
+]
